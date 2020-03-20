@@ -20,6 +20,6 @@
 			{"teams": ["Man Utd","Newcastle"],"score": [2,0],"positions": [1,11],"date": "2000-08-20T05:00:00.000Z","id": 9,"matchweek": 1},
 			{"teams": ["Ipswich","Man Utd"],"score": [1,1],"positions": [16,6],"date": "2000-08-22T05:00:00.000Z","id": 12,"matchweek": 2}
 		],
-		"player":{id:"2001.David Beckham","name":"David Beckham","team":"Man Utd","position":"M","appearances":31,"starts":29,"wins":19,"losses":4,"draws":8,"conceded":25,"cleanSheets":13,"goals":9,"goalShares":56,"multiGoalGames":[0,0],"againstTop":[2,1,3],"againstTopPlus":[3,2,3]}
+		"player":{"id":"2001.David Beckham","name":"David Beckham","team":"Man Utd","position":"M","appearances":31,"starts":29,"wins":19,"losses":4,"draws":8,"conceded":25,"cleanSheets":13,"goals":9,"goalShares":56,"multiGoalGames":[0,0],"againstTop":[2,1,3],"againstTopPlus":[3,2,3]}
 	}
 }
